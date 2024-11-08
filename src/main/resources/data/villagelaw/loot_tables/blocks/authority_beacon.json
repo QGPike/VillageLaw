@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "villagelaw:blocks/authority_beacon",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "villagelaw:authority_beacon"
+        }
+      ]
+    }
+  ]
+}

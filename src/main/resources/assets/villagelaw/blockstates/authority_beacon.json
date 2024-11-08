@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "villagelaw:block/authority_beacon"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "villagelaw:block/totem_of_law_core"
+    }
+  }
+}

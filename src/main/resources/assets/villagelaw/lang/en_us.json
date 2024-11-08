@@ -1,0 +1,16 @@
+{
+  "effect.villagelaw.authority_effect": "Authority Effect",
+  "block.sharptest.totem_of_law_core": "Law Core",
+  "block.villagelaw.authority_beacon": "Beacon of Authority",
+  "block.sharptest.authority_beacon": "Beacon of Authority",
+  "effect.sharptest.authority_effect": "Authority Effect",
+  "block.villagelaw.totem_of_law_core": "Law Core",
+  "item.villagelaw.law_core": "Law Core",
+  "entity.sharptest.law_golem": "Guardian of Law",
+  "entity.villagelaw.law_golem": "Guardian of Law",
+  "item.villagelaw.lawchargetex": "LawEnergy",
+  "item.sharptest.lawchargetex": "LawEnergy",
+  "item.sharptest.law_golem_spawn_egg": "Guardian of Law Spawn Egg",
+  "item.villagelaw.law_golem_spawn_egg": "Guardian of Law Spawn Egg",
+  "item.sharptest.law_core": "Law Core"
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="BSD License Common Development and Distribution License (CDDL)"
+
+[[mods]]
+modId="villagelaw"
+version="1.0.0"
+displayName="VillageLaw"
+displayURL="https://github.com/QGPike/VillageLaw"
+credits="created using a mixture of custom JAVA and MCreator"
+authors="sharpq"
+description="Adds Villager and Golem reactions when committing crimes within a village! "
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.villagelaw]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
